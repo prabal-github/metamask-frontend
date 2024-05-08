@@ -1,0 +1,41 @@
+.metamask-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+}
+
+.account-info {
+    margin-bottom: 20px;
+}
+
+.account-details {
+    margin-top: 10px;
+}
+
+.connect-btn,
+.mint-btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.connect-btn {
+    background-color: #007bff;
+    color: #fff;
+}
+
+.mint-btn {
+    background-color: #28a745;
+    color: #fff;
+}
+
+.error-msg {
+    color: #dc3545;
+    font-size: 14px;
+    margin-top: 10px;
+}
